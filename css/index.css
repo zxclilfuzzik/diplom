@@ -43,7 +43,7 @@ header {
 
 .link__img {
   padding-top: 10px;
-  padding-left: 10px;
+  padding-left: 40px;
 }
 
 .img__link__one {
@@ -195,6 +195,9 @@ a {
 }
 
 .info__block {
+}
+
+.block__container {
 }
 
 footer {
